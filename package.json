@@ -2,7 +2,7 @@
   "name": "svg-logo-maker",
   "version": "1.0.0",
   "description": "",
-  "main": "idex.js",
+  "main": "index.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
@@ -14,7 +14,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.11",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
